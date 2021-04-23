@@ -1,16 +1,24 @@
-### Hi there 👋
+<h4 align="center">
+    🔰HELLO SAHRUL GUNAWAN LOVERS🔰
+</h4>
 
-<!--
-**Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center">
+<a href="#"><img title="Author BY SAHRUL GUNAWAN CYBER" src="https://img.shields.io/badge/AUTHOR%20BY-LOL~%20ANKER-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
+<h4 align="center">
 
-Here are some ideas to get you started:
+<h4 align="center">
+   ❤️Follow My Github And Subscribe❤️
+</h4 aling="center">
+ 
+![github stats](https://github-readme-stats.vercel.app/api?username=4NK3R-PRODUCT1ON&show_icons=true&theme=dark)
+<a href="https://github.com/4NK3R-PRODUCT1ON/T4MPILAN-V5"><img title="Tampilan" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=T4MPILAN-V5&theme=vision-friendly-dark"></a>
+<a href="https://github.com/4NK3R-PRODUCT1ON/enc"><img title="Encrypt python2" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=enc&theme=vision-friendly-dark"></a>
+<a href="https://github.com/4NK3R-PRODUCT1ON/DefaceWebDav"><img title="Deface website" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=DefaceWebDav&theme=vision-friendly-dark"></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunia-Kode&layout=compact" alt="Top language">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MY SOCIAL MEDIA
+* [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bang-Sahrul-Gunawan-Cyber)<br />
+* [<img alt="Dunia-Kode's Facebook" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](ANONYMOUS CYBER OFFICIAL INDONESIA)<br />
+* [<img alt="Dunia-Kode's Whatsapp" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6281333166254)<br />
+* [<img alt="Dunia-Kode's Instagram" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/WES_KADUNG_REWEL)<br />
