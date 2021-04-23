@@ -15,7 +15,6 @@
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Wallpaper-Hp-Termux-Tools"><img title="Wallpaper-Hp-Termux-Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Wallpaper-Hp-Termux-Tools&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/SUPER-PINGER-TOOLS"><img title="SUPER-PINGER-TOOLS" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=SUPER-PINGER-TOOLS&theme=vision-friendly-dark"></a>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dunia-Kode&layout=compact" alt="Top language">
 
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bang-Sahrul-Gunawan-Cyber)<br />
