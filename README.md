@@ -2,7 +2,7 @@
     🔰SELAMAT DATANG DI GITHUB SAYA🔰
 </h4>
 
-<h4 align="center">Jumplah Pengunjung :eyes:</h4>
+<h4 align="center">JUMPLAH PENGUNJUNG :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Bang-Sahrul-Gunawan-Cyber}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
@@ -11,7 +11,7 @@
 <h4 align="center">
 
 <h4 align="center">
-   ❤️Follow My Gitub Follow My Youtube Kami❤️
+  ❤️Follow My Gitub Follow My Youtube Kami❤️
 </h4 aling="center">
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber&show_icons=true&theme=dark)
