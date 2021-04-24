@@ -13,10 +13,6 @@
 <h4 align="center">
    ❤️Follow My Gitub Follow My Youtube Kami❤️
 </h4 aling="center">
- 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bang-Sahrul-Gunawan-Cyber&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber&show_icons=true&theme=dark)
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Tampilan-Termux"><img title="Tampilan-Termux" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Tampilan-Termux&theme=vision-friendly-dark"></a>
