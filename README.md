@@ -2,6 +2,13 @@
     🔰HELLO SAHRUL GUNAWAN CYBER🔰
 </h4>
 
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+
 <h4 align="center">
 <a href="#"><img title="Author BY : Sahrul Gunawan Cyber" src="https://img.shields.io/badge/AUTHOR%20BY-SAHRUL~%20GUNAWAN-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
 <h4 align="center">
