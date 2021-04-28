@@ -1,8 +1,11 @@
 <h4 align="center">
-    🔰SELAMAT DATANG DI GITHUB SAYA🔰
+    😁SELAMAT DATANG DI GITHUB SAYA😁
 </h4>
-
-<h4 align="center">JUMPLAH PENGUNJUNG :eyes:</h4>
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">😍Stastik Data Personal😍</h2>
+</p>
+<h4 align="center">😀JUMPLAH PENGUNJUNG😀 :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Bang-Sahrul-Gunawan-Cyber}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
