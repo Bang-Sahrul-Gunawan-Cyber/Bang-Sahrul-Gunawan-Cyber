@@ -2,11 +2,6 @@
 
 
 <h4 align="center">
-<br />
-<p align="center">
-  <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
     😁SELAMAT DATANG DI GITHUB SAYA😁
 </h4>
 <p align="center">
