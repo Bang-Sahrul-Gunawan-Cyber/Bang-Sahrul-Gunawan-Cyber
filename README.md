@@ -37,9 +37,7 @@
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
+    <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+    <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
+  </a>
   </p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-</p>
