@@ -1,6 +1,4 @@
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Bang-Sahrul-Gunawan-Cyber&row=1)](https://github.com/Bang-Sahrul-Gunawan-Cyber/github-profile-trophy)
-
-
 <h4 align="center">
     😁SELAMAT DATANG DI GITHUB SAYA😁
 </h4>
@@ -41,3 +39,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     </a>
   </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
+</p>
