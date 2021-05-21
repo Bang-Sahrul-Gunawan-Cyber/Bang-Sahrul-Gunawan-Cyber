@@ -1,0 +1,13 @@
+pip install nechanize
+pip install requests
+pip install tqdm
+pip install termcolor
+pip install xdis
+pip install bs4
+
+pip2 install nechanize
+pip2 install requests
+pip2 install tqdm
+pip2 install termcolor
+pip2 install xdis
+pip2 install bs4
