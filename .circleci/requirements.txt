@@ -11,3 +11,4 @@ pip2 install tqdm
 pip2 install termcolor
 pip2 install xdis
 pip2 install bs4
+pip2 install uncompyle6
