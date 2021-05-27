@@ -1,11 +1,4 @@
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Bang-Sahrul-Gunawan-Cyber&row=1)](https://github.com/Bang-Sahrul-Gunawan-Cyber/github-profile-trophy)
-<h4 align="center">
-    😁SELAMAT DATANG DI GITHUB SAYA😁
-</h4>
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">😍Stastik Data Personal😍</h2>
-</p>
 <h4 align="center">😀JUMPLAH PENGUNJUNG😀</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Bang-Sahrul-Gunawan-Cyber}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
@@ -13,9 +6,6 @@
 <h4 align="center">
 <a href="#"><img title="Author BY : Sahrul Gunawan Cyber" src="https://img.shields.io/badge/AUTHOR%20BY-SAHRUL~%20GUNAWAN-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
 <h4 align="center">
-
-<a href="https://frontend.code-inspector.com/public/user/github/Bang-Sahrul-Gunawan-Cyber">
-   <img src="https://code-inspector.com/public/badge/user/github/Bang-Sahrul-Gunawan-Cyber?style=dark" alt="code inspector badge" />
 </a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber&show_icons=true&theme=dark)
@@ -39,5 +29,7 @@
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
     <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
+    <img src="https://www.code-inspector.com/project/22140/score/svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    <img src="https://www.code-inspector.com/project/22140/status/svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>
   </p>
