@@ -17,7 +17,6 @@
 
 ### MY SOCIAL MEDIA
 * [<img alt="Dunia-Kode's Github" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bang-Sahrul-Gunawan-Cyber) FOLLOW MY GITHUB<br />
-* [<img alt="Dunia-Kode's Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> <b>Youtube</b>](https://youtu.be/E5pQiMRtCzg) MY YOUTUBE<br />
 * [<img alt="Dunia-Kode's Whatsapp" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6281333166254) WHATSAPP SAYA<br />
 * [<img alt="Dunia-Kode's Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <b>Instagram</b>](https://Instagram.com/wes_kadung_rewel) INSTAGRAM SAYA<br />
 
