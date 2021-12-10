@@ -9,7 +9,7 @@
 <h4 align="center">
 </a>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber&show_icons=true&theme=highcontrast)
 <a hfef="https://github.com/Bang-Sahrul-Gunawan-Cyber/WINDOWS-10"><img title="WINDOWS 10 RDP"  src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=WINDOWS-10&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Tampilan-Termux"><img title="Tampilan-Termux" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Tampilan-Termux&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Wallpaper-Hp-Termux-Tools"><img title="Wallpaper-Hp-Termux-Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Wallpaper-Hp-Termux-Tools&theme=vision-friendly-dark"></a>
