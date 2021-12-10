@@ -1,5 +1,5 @@
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Bang-Sahrul-Gunawan-Cyber&row=1)](https://github.com/Bang-Sahrul-Gunawan-Cyber/github-profile-trophy)
-<h4 align="center">😀JUMPLAH PENGUNJUNG😀</h4>
+<h4 align="center">VISITOR TOTALS</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Bang-Sahrul-Gunawan-Cyber}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
