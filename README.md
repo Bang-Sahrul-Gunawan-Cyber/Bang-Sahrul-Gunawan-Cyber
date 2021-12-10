@@ -10,12 +10,13 @@
 </a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber&show_icons=true&theme=dark)
+<a hfef="https://github.com/Bang-Sahrul-Gunawan-Cyber/WINDOWS-10"><img title="WINDOWS 10 RDP"  src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=WINDOWS-10&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Tampilan-Termux"><img title="Tampilan-Termux" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Tampilan-Termux&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Wallpaper-Hp-Termux-Tools"><img title="Wallpaper-Hp-Termux-Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Wallpaper-Hp-Termux-Tools&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/SUPER-PINGER-TOOLS"><img title="SUPER-PINGER-TOOLS" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=SUPER-PINGER-TOOLS&theme=vision-friendly-dark"></a>
 <p align="center">
 
-## Achievements
+## KUMPULAN PRESTASI
 
 Title | Badge | Earnable? | Earned by
 ------------ | ------------- | ------------ | -------------
@@ -37,8 +38,6 @@ Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievemen
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
     <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-    <img src="https://www.code-inspector.com/project/22140/score/svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    <img src="https://www.code-inspector.com/project/22140/status/svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+    <img src="http://www.wieistmeineip.de/ip-address/?size=468x60" border="0"  width="468" height="80" alt="IP" /></a>
   </a>
   </p>
-<a <img  src="http://www.wieistmeineip.de/ip-address/?size=468x60" border="0"  width="468" height="60" alt="IP" /></a>
