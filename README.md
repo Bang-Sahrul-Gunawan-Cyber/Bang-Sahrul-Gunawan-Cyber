@@ -38,6 +38,5 @@ Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievemen
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
     <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-    <img src="http://www.wieistmeineip.de/ip-address/?size=468x60" border="0"  width="468" height="80" alt="IP" /></a>
   </a>
   </p>
