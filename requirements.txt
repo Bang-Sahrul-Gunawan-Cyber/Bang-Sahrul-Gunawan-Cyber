@@ -1,13 +1,13 @@
 #!/bin/bash -eo pipefail
 pip install -r requirements.txt
-pip install nechanize
+pip install mechanize
 pip install requests
 pip install tqdm
 pip install termcolor
 pip install xdis
 pip install bs4
 
-pip2 install nechanize
+pip2 install mechanize
 pip2 install requests
 pip2 install tqdm
 pip2 install termcolor
