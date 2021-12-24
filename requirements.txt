@@ -1,3 +1,5 @@
+#!/bin/bash -eo pipefail
+pip install -r requirements.txt
 pip install nechanize
 pip install requests
 pip install tqdm
