@@ -18,7 +18,7 @@
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/SUPER-PINGER-TOOLS"><img title="SUPER-PINGER-TOOLS" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=SUPER-PINGER-TOOLS&theme=vision-friendly-dark"></a>
 <p align="center">
 
-## KUMPULAN PRESTASI 
+## KUMPULAN PRESTASI
 
 Title | Badge | Earnable? | Earned by
 ------------ | ------------- | ------------ | -------------
