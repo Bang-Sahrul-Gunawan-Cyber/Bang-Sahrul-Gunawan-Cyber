@@ -1,4 +1,5 @@
-![template_s](https://github.com/Bang-Sahrul-Gunawan-Cyber/MOBILE-LEGENDS-TOOLS/blob/main/mobile.png)
+![template_s](https://github.com/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber/blob/main/img/bangsahrul1.png)
+
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Bang-Sahrul-Gunawan-Cyber&row=1)](https://github.com/Bang-Sahrul-Gunawan-Cyber/github-profile-trophy)
 <h4 align="center">VISITOR TOTALS</h4>
 
