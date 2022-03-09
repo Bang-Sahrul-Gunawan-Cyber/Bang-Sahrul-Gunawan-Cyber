@@ -6,13 +6,13 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Bang-Sahrul-Gunawan-Cyber}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">
-<a href="#"><img title="Author BY : Sahrul Gunawan Cyber" src="https://img.shields.io/badge/AUTHOR%20BY-SAHRUL~%20GUNAWAN-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
-<a href="#"><img title="Author BY : Sahrul Gunawan Cyber" src="https://img.shields.io/badge/GITHUB%20VISIT-2021~%20SPONSOR-blue?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
+<a href="https://instagram.com/wes_kadung_rewel"><img title="Author BY : Sahrul Gunawan Cyber" src="https://img.shields.io/badge/AUTHOR%20BY-SAHRUL~%20GUNAWAN-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
+<a href="https://github.com"><img title="Author BY : Sahrul Gunawan Cyber" src="https://img.shields.io/badge/GITHUB%20VISIT-2021~%20SPONSOR-blue?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
 <h4 align="center">
 </a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber&show_icons=true&theme=highcontrast)
-<a hfef="https://github.com/Bang-Sahrul-Gunawan-Cyber/SIMPLE-RDP-SERVER-WIN10"><img title="SIMPLE-RDP-SERVER-WIN10"  src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=SIMPLE-RDP-SERVER-WIN10&theme=vision-friendly-dark"></a>
+<a hfef="https://github.com/Bang-Sahrul-Gunawan-Cyber/SIMPLE-RDP-SERVER-WIN10"><img title="SIMPLE-RDP-SERVER-WIN10"  src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=SIMPLE-RDP-SERVER-WIN10&theme=vision-friendly-drak"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Tampilan-Termux"><img title="Tampilan-Termux" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Tampilan-Termux&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Wallpaper-Hp-Termux-Tools"><img title="Wallpaper-Hp-Termux-Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Wallpaper-Hp-Termux-Tools&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/SUPER-PINGER-TOOLS"><img title="SUPER-PINGER-TOOLS" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=SUPER-PINGER-TOOLS&theme=vision-friendly-dark"></a>
