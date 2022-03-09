@@ -1,2 +1,0 @@
-#!/bin/bash -eo pipefail
-pip install -r requirements.txt
