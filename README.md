@@ -32,15 +32,6 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## KUMPULAN PRESTASI
-
-Title | Badge | Earnable? | Earned by
------------- | ------------- | ------------ | -------------
-Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/badge-arctic-code-vault-small.png?raw=true) | ✔️ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-GitHub Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/badge-sponsors-small.png?raw=true) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
-Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](https://github.com/Schweinepriester/github-profile-achievements/blob/main/images/badge-mars-2020-small.png?raw=true) | ✔️ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
-
-
 ### MY SOCIAL MEDIA SAYA
 * [<img alt="Dunia-Kode's Github" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bang-Sahrul-Gunawan-Cyber) FOLLOW MY GITHUB<br />
 * [<img alt="Dunia-Kode's Whatsapp" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> <b>WhatsApp</b>](https://wa.me/6281333166254) WHATSAPP SAYA<br />
