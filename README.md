@@ -1,5 +1,5 @@
 ![template_s](https://github.com/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber/blob/main/img/bangsahrul1.png)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=Bang-Sahrul-Gunawan-Cyber&theme=onedark)
 <h4 align="center">VISITOR TOTALS</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Bang-Sahrul-Gunawan-Cyber}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
