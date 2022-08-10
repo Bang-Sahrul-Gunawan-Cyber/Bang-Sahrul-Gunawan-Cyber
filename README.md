@@ -1,4 +1,4 @@
-![template_s](https://github.com/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber/blob/main/img/bangsahrul1.png)
+![template_s](https://github.com/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber/blob/main/mygit.png)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Bang-Sahrul-Gunawan-Cyber&theme=onedark)
 <h4 align="center">VISITOR TOTALS</h4>
 
