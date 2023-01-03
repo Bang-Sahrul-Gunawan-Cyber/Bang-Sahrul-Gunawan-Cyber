@@ -34,6 +34,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber?color=red&label=FILES%20TOTALS%20&logo=Github%20Repo&logoColor=green&style=for-the-badge">
 
 ### MY SOCIAL MEDIA SAYA
 * [<img alt="Dunia-Kode's Github" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Bang-Sahrul-Gunawan-Cyber) FOLLOW MY GITHUB<br />
