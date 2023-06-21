@@ -10,10 +10,7 @@
 <h4 align="center">
 </a>
 
-<div id="status">
-<img src="https://github-readme-stats.vercel.app/api?username=Bang-Sahrul-Gunawan-Cyber">
-<img class="animated fadeInDown delay-2s" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bang-Sahrul-Gunawan-Cyber&layout=compact">
-</div>
+
 
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Tampilan-Termux"><img title="Tampilan-Termux" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Tampilan-Termux&theme=vision-friendly-dark"></a>
 <a href="https://github.com/Bang-Sahrul-Gunawan-Cyber/Wallpaper-Hp-Termux-Tools"><img title="Wallpaper-Hp-Termux-Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=Bang-Sahrul-Gunawan-Cyber&repo=Wallpaper-Hp-Termux-Tools&theme=vision-friendly-dark"></a>
